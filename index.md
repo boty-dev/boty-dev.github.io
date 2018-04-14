@@ -17,6 +17,8 @@ Our Team Consists of the Following People
 * Rohit Tripathi
 * Garima Singh
 
+Here is how the tasks are divided between Dev and Content teams.
+
 ### Tasks for a BOTY Developer
 
 *   Handle various Backend Dev Tasks.
@@ -37,7 +39,13 @@ If you wish to join our team as a Developer or a Content Writer, you can join us
 BOTY is a self funded project. But we couldn't do it without our Sponsors. And I would like to thank the following People.
 
 Divjot Singh from RoundedNeck.com - For creating our Apparel.
+
 KB Enterprises - For Providing us Free Office Space.
+
 [IMDb.com](https://imdb.com) - For Being so Awesome.
+
 [Shahrukh Khan](https://en.wikipedia.org/wiki/Shah_Rukh_Khan) - If it weren't for him, I would have never gotten into Movie Journalism.
+
 Canara Bank - For Being our Partner Bank and helping us with our Finanancial and Banking Requirements.
+
+
